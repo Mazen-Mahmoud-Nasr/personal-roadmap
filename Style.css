@@ -1,0 +1,15 @@
+body {
+	Background-color: #121212;
+	Font-family: Arial, sans-serif;
+}
+
+.info {
+	Text-align: center;
+	color: #ffefff;
+	Font-family: Arial, sans-serif;
+}
+
+.roadmap, a{
+	color: #05f2f2;
+	font-family: Arial, sans-serif;
+}
